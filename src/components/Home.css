@@ -1,0 +1,33 @@
+.title-calendar {
+    color: #8C408C !important;
+    font-family: Quicksand;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.patient-name {
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: 700;
+    color: #212121;
+}
+
+.patient-observation {
+    color: #898A8B;
+    font-family: Quicksand;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.home-header {
+    background-color: #636363 !important;
+    color: #FFFFFF !important;
+    font-family: Quicksand;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.has-appt{
+    background-color: #8C408C;
+    color: #FFFFFF;
+}
